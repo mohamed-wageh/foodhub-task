@@ -39,7 +39,7 @@ git clone https://github.com/your-repo/expense-tracker.git
 ### Install dependencies:
 npm install
 ### Start the development server:
-npx expo start
+npm start
 
 ## How to Use
 - Home Screen: Displays all expenses in a list, grouped by the selected period.
