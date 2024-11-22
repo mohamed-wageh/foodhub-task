@@ -37,7 +37,6 @@ A React Native application for managing personal expenses. Users can add, view, 
 ### Clone the repository:
 git clone https://github.com/your-repo/expense-tracker.git
 ### Install dependencies:
-cd expense-tracker
 npm install
 ### Start the development server:
 npx expo start
