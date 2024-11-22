@@ -11,7 +11,7 @@ A React Native application for managing personal expenses. Users can add, view, 
 - Theming: Consistent and customizable styles using a centralized global theme.
 
 ## Tech Stack
-- Frontend: React Native
+- Frontend: React Native & Expo
 - Styling: React Native StyleSheet with a Global Style System.
 - Navigation: React Navigation (for managing screens like ManageExpense).
 - State Management: Local state management with hooks like useState.
@@ -37,16 +37,20 @@ A React Native application for managing personal expenses. Users can add, view, 
 ### Clone the repository:
 git clone https://github.com/your-repo/expense-tracker.git
 ### Install dependencies:
-cd expense-tracker
 npm install
 ### Start the development server:
-npx expo start
+npm start
+### Start the app:
+use expo go on physical device (android/ios)
+use expo go on emultor (android/ios)
 
 ## How to Use
 - Home Screen: Displays all expenses in a list, grouped by the selected period.
 - Add Expense: Click on the Add button to create a new expense.
 - Edit/Delete Expense: Tap on any expense item to edit or delete it.
-- Summary: The summary bar at the top shows total expenses for the selected period.Known Issues
+- Summary: The summary bar at the top shows total expenses for the selected period.
+
+## Known Issues
 
 ## Ensure all fields are filled correctly to avoid validation errors.
 ## Dates must follow the YYYY-MM-DD format
