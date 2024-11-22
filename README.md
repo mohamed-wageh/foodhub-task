@@ -40,6 +40,9 @@ git clone https://github.com/your-repo/expense-tracker.git
 npm install
 ### Start the development server:
 npm start
+### Start the app:
+use expo go on physical device (android/ios)
+use expo go on emultor (android/ios)
 
 ## How to Use
 - Home Screen: Displays all expenses in a list, grouped by the selected period.
