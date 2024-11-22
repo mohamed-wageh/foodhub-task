@@ -11,7 +11,7 @@ A React Native application for managing personal expenses. Users can add, view, 
 - Theming: Consistent and customizable styles using a centralized global theme.
 
 ## Tech Stack
-- Frontend: React Native % Expo
+- Frontend: React Native & Expo
 - Styling: React Native StyleSheet with a Global Style System.
 - Navigation: React Navigation (for managing screens like ManageExpense).
 - State Management: Local state management with hooks like useState.
