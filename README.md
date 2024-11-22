@@ -45,7 +45,9 @@ npm start
 - Home Screen: Displays all expenses in a list, grouped by the selected period.
 - Add Expense: Click on the Add button to create a new expense.
 - Edit/Delete Expense: Tap on any expense item to edit or delete it.
-- Summary: The summary bar at the top shows total expenses for the selected period.Known Issues
+- Summary: The summary bar at the top shows total expenses for the selected period.
+
+## Known Issues
 
 ## Ensure all fields are filled correctly to avoid validation errors.
 ## Dates must follow the YYYY-MM-DD format
